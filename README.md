@@ -1,4 +1,4 @@
-# reading-notes
+# Reading-notes
 My Code Fellows Reading Notes 	
 
 
