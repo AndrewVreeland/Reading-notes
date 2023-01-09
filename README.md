@@ -6,12 +6,9 @@ Andrew Vreeland is a highly skilled and experienced professional with a strong b
 [Link to gihub portfolio](https://github.com/AndrewVreeland) 
 
 Contact info: 
-
-Andrew Thomas Vreeland
-
-Cell: (727) 514-5142
-
-Email: Andrewvreeland@gmail.com
+- Andrew Thomas Vreeland
+- Cell: (727) 514-5142
+- Email: Andrewvreeland@gmail.com
 
 
 
