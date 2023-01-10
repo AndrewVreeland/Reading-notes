@@ -23,6 +23,7 @@ A growth mindset is the belief that abilities and intelligence can be developed 
 3. **_Seek feedback_** and embrace constructive criticism. Ask for feedback from others and be open to hearing and learning from their perspective, even if it's not what you want to hear. This can help you identify areas where you can improve and grow.
 
 
+[class 1 notes](https://andrewvreeland.github.io/Reading-notes/class1)
 
 
 
