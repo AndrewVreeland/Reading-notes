@@ -24,4 +24,4 @@ A text editor only edits text, but an IDE is a software development package that
 6. Make a new directory: use the "mkdir" command to create a new folder.
 
 **_THINGS I WANT TO KNOW_** 
-TBD 
+* TBD 
