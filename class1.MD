@@ -27,6 +27,11 @@ Bold and nested italic	** ** and _ _		**_"This text is _extremely_ important"_**
 
 All bold and italic	*** ***		***"All this text is important"***	All this text is important
 
+## Resources 
+1. [Basic Syntax](https://www.markdownguide.org/basic-syntax/)
+2. [Mastering Mardown on GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+3. [GitHub Pages Video](https://pages.github.com/)
+
 **_THINGS I WANT TO KNOW_**
 1. How Markdown can be used across other platfroms
 2. How far can Markdown be taken, what are it's limits 
