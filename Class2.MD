@@ -23,6 +23,8 @@ A text editor only edits text, but an IDE is a software development package that
 5. To clear the current page use the "clear" command 
 6. Make a new directory: use the "mkdir" command to create a new folder.
 7. To list all files and the subsequent directories use the "Tree" command
+8. create a new file use the "touch" command
+9. to launch code editor in the current directory use "Code ." command 
 
 **_THINGS I WANT TO KNOW_** 
 * TBD 
