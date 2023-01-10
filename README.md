@@ -1,3 +1,4 @@
+![mountains](https://user-images.githubusercontent.com/122303931/211586989-2095755b-9fec-4f7e-a665-4afc73cecd36.jpg)
 # Reading-notes
 My Code Fellows Reading Notes 	
 
@@ -10,8 +11,6 @@ Contact info:
 - Cell: (727) 514-5142
 - Email: Andrewvreeland@gmail.com
 
-
-   ![This is an image](https://media.istockphoto.com/id/1194499064/photo/work-smart-motivational-reminder-handwritten-on-sticky-note.jpg?s=612x612&w=0&k=20&c=fHa4p71jwOoMx51f_9RqGgZDzH24twIQ_ujiKkawz6U=)"
 
 
 ### Growth
