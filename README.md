@@ -9,7 +9,7 @@ Andrew Vreeland is a highly skilled and experienced professional with a strong b
 
 # Table of contents 
 
-## 102 Notes 
+## Class 102 
 
 [Class 01 Learning Markdown notes](https://andrewvreeland.github.io/Reading-notes/class1)
 
@@ -26,6 +26,9 @@ Andrew Vreeland is a highly skilled and experienced professional with a strong b
 [Class 07 Programming with JavaScript](https://andrewvreeland.github.io/Reading-notes/class7)
 
 [Class 08 Operators and Loops](https://andrewvreeland.github.io/Reading-notes/class8)
+
+## Class 201
+
 
 Contact info: 
 - Andrew Thomas Vreeland
