@@ -28,4 +28,7 @@ Bold and nested italic	** ** and _ _		**_"This text is _extremely_ important"_**
 All bold and italic	*** ***		***"All this text is important"***	All this text is important
 
 **_THINGS I WANT TO KNOW_**
+1. How Markdown can be used across other platfroms
+2. How far can Markdown be taken, what are it's limits 
+3. How to utilize HTML in addition to Markdown to achieve the results that I want. 
 
