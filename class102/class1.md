@@ -1,6 +1,6 @@
 # Class 1 Reading Assignment
 
-*These are my notes from Module 1*
+## *These are my notes from Module 1*
 
  Markdown is a lightweight markup language that is used to format text in a simple and easy-to-read way. It is designed to be easy to write and easy to read, and it can be converted to other formats such as HTML or PDF. Three benefits of using markdown are listed below.
 
@@ -10,30 +10,30 @@
 
 * Additionally, Markdown is widely used across different platforms, so once you learn it you can use it on many applications such as notes-taking software, blog platform, or even many knowledge management systems .
 
-
 ### **Cheat Sheet**
 
 To create a heading, add one to six "#" symbols before your heading text. The number of "#" you use will determine the size of the heading.
 
-Style	Syntax	Keyboard shortcut	Example	Output
+Style Syntax Keyboard shortcutExample Output
 
-Bold	** ** or __ __	 Ctrl+B (Windows/Linux)	**"This is bold text"**	This is bold text
+Bold ** ** or __ __	 Ctrl+B (Windows/Linux)**"This is bold text"**	This is bold text
 
-Italic	* * or _ _     	 Ctrl+I (Windows/Linux)	*"This text is italicized"*	This text is italicized
+Italic * * or _ _    Ctrl+I (Windows/Linux)	*"This text is italicized"*	This text is italicized
 
-Strikethrough	~~ ~~		~~This was mistaken text~~	This was mistaken text
+Strikethrough ~~ ~~	~~This was mistaken text~~ This was mistaken text
 
-Bold and nested italic	** ** and _ _		**_"This text is _extremely_ important"_**	This text is extremely important
+Bold and nested italic	** ** and _ _ **_"This text is _extremely_ important"_**	This text is extremely important
 
-All bold and italic	*** ***		***"All this text is important"***	All this text is important
+All bold and italic	*** ***	***"All this text is important"*** All this text is important
 
-## Resources 
+## Resources
+
 1. [Basic Syntax](https://www.markdownguide.org/basic-syntax/)
 2. [Mastering Mardown on GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 3. [GitHub Pages Video](https://pages.github.com/)
 
-**_THINGS I WANT TO KNOW_**
-1. How Markdown can be used across other platfroms
-2. How far can Markdown be taken, what are it's limits 
-3. How to utilize HTML in addition to Markdown to achieve the results that I want. 
+## *Things To Learn*
 
+1. How Markdown can be used across other platfroms
+2. How far can Markdown be taken, what are it's limits
+3. How to utilize HTML in addition to Markdown to achieve the results that I want.
