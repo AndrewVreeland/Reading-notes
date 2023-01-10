@@ -6,12 +6,6 @@ My Code Fellows Reading Notes
 Andrew Vreeland is a highly skilled and experienced professional with a strong background in military service and leadership. He served for 8 years in the military, including 4 years working with F-16 avionics and 4 years as an Infantry assaultman. Andrew has held various leadership and management roles and has expertly managed teams with more than 40 members. He is currently enrolled in a coding bootcamp Code Fellows, where he is learning Java script as his primary coding language. Andrew's goal is to break into the tech industry and he is eager to apply his skills and experience to a new career path. 
 [Link to gihub portfolio](https://github.com/AndrewVreeland) 
 
-Contact info: 
-- Andrew Thomas Vreeland
-- Cell: (727) 514-5142
-- Email: Andrewvreeland@gmail.com
-
-
 
 ### Growth
 A growth mindset is the belief that abilities and intelligence can be developed and improved through effort and learning, rather than being fixed traits. It is characterized by a focus on growth, learning, and continuous improvement, and is associated with a positive attitude towards challenges and setbacks. 
@@ -22,8 +16,15 @@ A growth mindset is the belief that abilities and intelligence can be developed 
 3. **_Seek feedback_** and embrace constructive criticism. Ask for feedback from others and be open to hearing and learning from their perspective, even if it's not what you want to hear. This can help you identify areas where you can improve and grow.
 
 
-[class 1 notes](https://andrewvreeland.github.io/Reading-notes/class1)
 
+[Class 1 notes](https://andrewvreeland.github.io/Reading-notes/class1)
+
+[Class 2 notes](https://andrewvreeland.github.io/Reading-notes/Class2)
+
+Contact info: 
+- Andrew Thomas Vreeland
+- Cell: (727) 514-5142
+- Email: Andrewvreeland@gmail.com
 
 
 
