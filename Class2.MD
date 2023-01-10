@@ -26,6 +26,7 @@ A text editor only edits text, but an IDE is a software development package that
 8. create a new file: use the "touch" command
 9. To launch code editor in the current directory: use "Code ." command 
 10. To clone code from git hub: use command "git clone" 
+11. To move a file use "mv" command followed by the directory you want it moved to 
 
 **_THINGS I WANT TO KNOW_** 
 * TBD 
