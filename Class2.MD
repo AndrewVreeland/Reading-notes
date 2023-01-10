@@ -20,11 +20,11 @@ A text editor only edits text, but an IDE is a software development package that
 2. Remove a file or directory: use the "rm" command to delete things.
 3. Copy a file: use the "cp" command to make a copy of a file.
 4. List Files: use the "ls" command 
-5. To clear the current page use the "clear" command 
+5. To clear the current: page use the "clear" command 
 6. Make a new directory: use the "mkdir" command to create a new folder.
-7. To list all files and the subsequent directories use the "Tree" command
-8. create a new file use the "touch" command
-9. to launch code editor in the current directory use "Code ." command 
+7. To list all files and the subsequent directories: use the "Tree" command
+8. create a new file: use the "touch" command
+9. to launch code editor in the current directory: use "Code ." command 
 
 **_THINGS I WANT TO KNOW_** 
 * TBD 
