@@ -11,7 +11,7 @@ Andrew Vreeland is a highly skilled and experienced professional with a strong b
 
 # Table of contents
 
-## Class 102
+## Code 102 Reading Notes
 
 [Class 01 Learning Markdown notes](class102/class1.md)
 
@@ -31,7 +31,7 @@ Andrew Vreeland is a highly skilled and experienced professional with a strong b
 
 [Growth](Growth.md)
 
-## Class 201
+## Code 201 Reading Notes
 
 [Class 01](class201/class1.md)
 
