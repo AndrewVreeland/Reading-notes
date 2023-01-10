@@ -22,6 +22,8 @@ A growth mindset is the belief that abilities and intelligence can be developed 
 
 [Class 2 notes](https://andrewvreeland.github.io/Reading-notes/Class2)
 
+[Class 3 notes](https://andrewvreeland.github.io/Reading-notes/class3)
+
 Contact info: 
 - Andrew Thomas Vreeland
 - Cell: (727) 514-5142
