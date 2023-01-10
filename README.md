@@ -31,6 +31,36 @@ Andrew Vreeland is a highly skilled and experienced professional with a strong b
 
 ## Class 201
 
+[Class 01](https://andrewvreeland.github.io/Reading-notes/class1)
+
+[Class 02](https://andrewvreeland.github.io/Reading-notes/class1)
+
+[Class03](https://andrewvreeland.github.io/Reading-notes/class1)
+
+[Class 04](https://andrewvreeland.github.io/Reading-notes/class1)
+
+[Class 05](https://andrewvreeland.github.io/Reading-notes/class1)
+
+[Class 06](https://andrewvreeland.github.io/Reading-notes/class1)
+
+[Class 07](https://andrewvreeland.github.io/Reading-notes/class1)
+
+[Class 08](https://andrewvreeland.github.io/Reading-notes/class1)
+
+[Class 09](https://andrewvreeland.github.io/Reading-notes/class1)
+
+[Class 10](https://andrewvreeland.github.io/Reading-notes/class1)
+
+[Class 11](https://andrewvreeland.github.io/Reading-notes/class1)
+
+[Class 12](https://andrewvreeland.github.io/Reading-notes/class1)
+
+[Class 13](https://andrewvreeland.github.io/Reading-notes/class1)
+
+[Class 14](https://andrewvreeland.github.io/Reading-notes/class1)
+
+[Class 15](https://andrewvreeland.github.io/Reading-notes/class1)
+
 
 Contact info: 
 - Andrew Thomas Vreeland
