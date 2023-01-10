@@ -11,7 +11,7 @@ Andrew Vreeland is a highly skilled and experienced professional with a strong b
 
 ## Class 102 
 
-[Class 01 Learning Markdown notes](https://andrewvreeland.github.io/Reading-notes/class102/class1)
+[Class 01 Learning Markdown notes](class102/class1.md)
 
 [Class 02 The Coder's Computer notes](https://andrewvreeland.github.io/Reading-notes/Class2)
 
