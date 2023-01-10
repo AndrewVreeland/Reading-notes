@@ -27,6 +27,8 @@ Andrew Vreeland is a highly skilled and experienced professional with a strong b
 
 [Class 08 Operators and Loops](https://andrewvreeland.github.io/Reading-notes/class8)
 
+[Growth Reminders]([Class 01 Learning Markdown notes](https://andrewvreeland.github.io/Reading-notes/Growth)
+
 ## Class 201
 
 
