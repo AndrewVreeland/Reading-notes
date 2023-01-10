@@ -22,6 +22,7 @@ A text editor only edits text, but an IDE is a software development package that
 4. List Files: use the "ls" command 
 5. To clear the current page use the "clear" command 
 6. Make a new directory: use the "mkdir" command to create a new folder.
+7. To list all files and the subsequent directories use the "Tree" command
 
 **_THINGS I WANT TO KNOW_** 
 * TBD 
