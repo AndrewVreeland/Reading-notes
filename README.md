@@ -29,7 +29,7 @@ Andrew Vreeland is a highly skilled and experienced professional with a strong b
 
 [Class 08 Operators and Loops](class102/class8.md)
 
-[Growth Reminders](Growth.md)
+[Growth](Growth.md)
 
 ## Class 201
 
