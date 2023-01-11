@@ -16,13 +16,13 @@ Git hub is remote repository
 
 ## Important Terms
 
-- Snapshots, each saved commit leaves a snapshot of the work done. creating a time stamp of the work done. 
+- Snapshots, each saved commit leaves a snapshot of the work done. creating a time stamp of the work done.
 
 - Local operations, reducing the need for outside sources. still able to get work done without being connected to server.
 
 - Tracks every change applied to any file or directory that is tracked by git
 
-- Git is setup in a way where data loss is rare. 
+- Git is setup in a way where data loss is rare.
 
 - Files in git reside in three states, committed, modified and staged.
 
