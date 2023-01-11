@@ -31,6 +31,8 @@ Andrew Vreeland is a highly skilled and experienced professional with a strong b
 
 [Growth](Growth.md)
 
+[Turtle Racing](https://andrewvreeland.github.io/turtle_race/) 
+
 ## Code 201 Reading Notes
 
 [Class 01](class201/class1.md)
