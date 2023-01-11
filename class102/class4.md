@@ -29,6 +29,8 @@ if file staging is successful, git status will change the file name color from r
 
 * A wireframe is a visual representation of the structure and layout of a web page, used to plan and design the user interface.
 
+## Things to Learn
 
+* I am not well versed with HTML at all I will need more practice to feel comfortable. 
 
 
