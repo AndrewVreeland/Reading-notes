@@ -21,4 +21,16 @@ Control returns to Step 2.
 3. The condition test occurs before statement in the loop is executed. If the condition returns true, statement is executed and the condition is tested again. If the condition returns false, execution stops, and control is passed to the statement following while.
 4. To execute multiple statements, use a block statement ({ }) to group those statements.
 
-HELLO WORLD 
+## Terms
+
+* Destructuring: For more complex assignments, the destructuring assignment syntax is a JS expression that makes it possible to extract data from arrays/objects using a syntax that mirrors the way array and object literals are constructed.
+
+* Evaluation and Nesting:
+
+1. Usually, assignments are used within a variable declaration (for example, with ‘const’, ‘let’, or ‘var’), or as standalone statements.
+2. Assignment expressions like ‘x = f()’ though, will evaluate into a result value that can be used by another expression.
+3. By chaining or nesting an assignment expression, the result can be assigned to another variable; logged; put inside an array literal or function call; etc.
+4. When chaining expressions without () or other grouping operators, the assignment expressions will be grouped R to L, but evaluated L to R.
+Avoid Assignment Chains
+
+* Chaining/nesting: assignments in other expressions can create problems, so it’s discouraged.
