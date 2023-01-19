@@ -31,5 +31,7 @@
 3. step3 = Math.floor(step2); 
 4. const step4 = step3 + 1;
 5. Math.floor(Math.random()*10)+1
-* parseInt('21') + 1 = 22
-* parseFloat ('33.5') = 33.5
+* Parse int and Parse float are used to parse strings into numbers.
+1. parseInt('21') + 1 = 22
+2. parseFloat ('33.5') = 33.5
+
