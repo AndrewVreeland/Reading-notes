@@ -19,4 +19,17 @@
 * if index of (place item here) = -1 then item is not here
 * slice = the ability to grab a portion of a string ex. if you wanted to remove the $ from a shopping list you could write '$50.60.slice(1)
 * replace = replaces a specific string with what you wanted ex. 'baseball is entertaining'.replace('entertaining', 'ok')
-* /n = NEW LINE
+* escape notation ex. /n = NEW LINE 'hello I ain/'t'; the "/" will hide the ' and not close the quotation. 
+* interpelate; back ticks; let animal = 'pig' let sound = 'oink' `{animal} says ${sound}` "pig says oink"
+* Ex. for back ticks; let item = 'cucumbers'; let price = 1.99; let quantity = 4; `you bought ${quantity} ${item}, total price: $${price*quantity}`
+// you bought 4 cucumbers, total price $7.96
+* Math object; math.pow (7,2) = 42 math.floor(4.6) = 5 Math.floor(3.657) = 3
+* Random numbers; Math.random(); random number from zero to one. 
+* Ex. How to get random numbers of other values like 1-10. 
+1. const step1 = Math.random();
+2.  Const step2 = step1 * 10 const 
+3. step3 = Math.floor(step2); 
+4. const step4 = step3 + 1;
+5. Math.floor(Math.random()*10)+1
+* parseInt('21') + 1 = 22
+* parseFloat ('33.5') = 33.5
