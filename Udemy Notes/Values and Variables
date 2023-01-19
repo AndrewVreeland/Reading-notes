@@ -25,13 +25,23 @@
 // you bought 4 cucumbers, total price $7.96
 * Math object; math.pow (7,2) = 42 math.floor(4.6) = 5 Math.floor(3.657) = 3
 * Random numbers; Math.random(); random number from zero to one. 
-* Ex. How to get random numbers of other values like 1-10. 
+ ### Ex. How to get random numbers of other values like 1-10. 
 1. const step1 = Math.random();
 2.  Const step2 = step1 * 10 const 
 3. step3 = Math.floor(step2); 
 4. const step4 = step3 + 1;
 5. Math.floor(Math.random()*10)+1
-* Parse int and Parse float are used to parse strings into numbers.
+### Parse int and Parse float are used to parse strings into numbers.
 1. parseInt('21') + 1 = 22
 2. parseFloat ('33.5') = 33.5
-
+* Nesting = having if and else if statements within themselves
+### Truthy and Falsy
+* all numbers except for ZERO are Truthy everything besides the list below is Truthy
+#### Falsy Values 
+1. false
+2. 0
+3. empty string ''
+4. null
+5. undefined
+6.Nan
+ 
