@@ -1,0 +1,22 @@
+# Values and Variables
+
+## Vocabulary
+
+* string = textual information
+* number = numeric value
+* Boolean = True or false value
+* Modulo = returns the remainder of a divison ex. 25 % 3 = 1; 14 % 4 = 2
+* cubed = "** ex. 2 **" 3=8
+* NAN = not a number, a numeric value that represents something that is not a number ex. 1 + Nan = NAN
+* ++ and -- will increment or decrement. Ex. let = people; people++ = 1 people ++ = 2
+* Properties = values assgined to strings ex. 'hello'.length = 5
+* indicies =  let = mysong[1] this will = 'y'
+* methods are built in actoins in a special value
+* String examples;  stringOfSomeSort.method(); str.toUpperCase(); 
+* let color = '        purple';  color.trim() = purple; color.trim toUpperCase = PURPLE
+* items within the () are called arguments 
+* 'baseball'.indexOf('ball') = 4
+* if index of (place item here) = -1 then item is not here
+* slice = the ability to grab a portion of a string ex. if you wanted to remove the $ from a shopping list you could write '$50.60.slice(1)
+* replace = replaces a specific string with what you wanted ex. 'baseball is entertaining'.replace('entertaining', 'ok')
+* /n = NEW LINE
