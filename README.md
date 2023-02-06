@@ -37,7 +37,7 @@ Andrew Vreeland is a highly skilled and experienced professional with a strong b
 
 [Class 01 How The Web Works](class201/class1.md)
 
-[Class 02](class201/class2.md)
+[Class 02 Basics of HTML, CSS & JS](class201/class2.md)
 
 [Class03](class201/class3.md)
 
