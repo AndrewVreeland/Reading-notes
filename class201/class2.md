@@ -47,3 +47,29 @@
       * === strict equality, == equal, !== strict not equal
 4. what is the difference between the logical operator && and ||?
       * && statement both conditions need to be true in order for the code to run where || only one condition needs to be true in order for the code to run. 
+
+
+## Cheat Sheet
+
+<blockquote> is used when info from elsewhere needs to be quoted. <cite> with URL can be included within this element. Any code within <blockquote> will look like an indented paragraph.
+
+Inline quotes use <q> with <cite> URL and are intended for short quotes.
+
+<abbr> is used for abbreviations or acronyms and are wrapped around them. This is commonly used when the full explanation of the abbreviated term is used and then <abbr> is used throughout the rest of the markup.
+
+<address> is used for providing contact info for the document. It is best used in te footer to provide the contact info for the site or in a article for the contact info of the author.
+
+<sup> and <sub> are superscript and sub script respectively and are used for dates, chemical formulas, and math equations.
+
+<time> is used for time and date formats for machines to read
+
+<code> marks up generic pieces of computer code
+
+<pre> retains white space, typically around code blocks. Any white spaced used within tag will show
+
+<var> marks up variable names
+
+<kbd> marks up keyboard input
+
+<samp> marks up the computer programs output
+
