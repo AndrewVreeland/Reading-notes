@@ -79,4 +79,26 @@ let myArray =[
   let nums = [ 2,3,4,5,6];
   console.table(nums); - puts array into a table that shows index position for its values
 
-  
+  ## [CSS Box Model](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Introduction_to_the_CSS_box_model)
+
+Everything is in a box. Boxes can be inline or block. The display property can be used to set values for the box.
+
+An Outer display can be be block or inline. The block starts on a new line and width and height are respected. There is padding and margins that adjust the box. If there is no specified width, then the box becomes as wide as the container. With Inline, the same width and height do not apply and the box stays on the same line. The vertical padding, borders, and margins do not move the other box but can be adjusted vertically.
+
+The Inner display box determines how element inside are laid out. display: flex is a way to change the inside of the box to flex items.
+
+The box model defines how the margin, border, padding, and content within a box works together.
+
+Parts of a Box:
+
+Content Box what shows on the webpage. Uses inline-size, block-size, width, and height properties
+
+Padding Box surrounds the content as white space. Uses padding property
+
+Border Box wraps around the padding and content box. Uses border property
+
+Margin Box wraps the border, padding, and content as whitespace between the box. Uses margin property
+
+An alternative box model uses any width as the width of the visible box. It is activated with box-sizing: border-box; and it needs to be set within the <html> in the CSS file
+
+DevTools can be used to view the box model.
