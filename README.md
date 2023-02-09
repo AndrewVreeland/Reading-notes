@@ -31,7 +31,7 @@ Andrew Vreeland is a highly skilled and experienced professional with a strong b
 
 [Growth](Growth.md)
 
-[Turtle Racing](https://andrewvreeland.github.io/turtle_race/) 
+[Turtle Racing](https://andrewvreeland.github.io/turtle_race/)
 
 ## Code 201 Reading Notes
 
@@ -39,7 +39,7 @@ Andrew Vreeland is a highly skilled and experienced professional with a strong b
 
 [Class 02 Basics of HTML, CSS & JS](class201/class2.md)
 
-[Class03](class201/class3.md)
+[Class 03 HTML Lists, Control Flow with JS and CSS Box model](class201/class3.md)
 
 [Class 04](class201/class4.md)
 
