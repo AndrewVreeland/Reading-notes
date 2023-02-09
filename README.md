@@ -41,7 +41,7 @@ Andrew Vreeland is a highly skilled and experienced professional with a strong b
 
 [Class 03 HTML Lists, Control Flow with JS and CSS Box model](class201/class3.md)
 
-[Class 04](class201/class4.md)
+[Class 04 HTML Links, JS Functions, and intro to CSS Layout](class201/class4.md)
 
 [Class 05](class201/class5.md)
 
