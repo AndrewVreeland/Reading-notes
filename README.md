@@ -45,7 +45,7 @@ Andrew Vreeland is a highly skilled and experienced professional with a strong b
 
 [Class 05](class201/class5.md)
 
-[Class 06](class201/class6.md)
+[Class 06 Problem Domain, Objects and the DOM](class201/class6.md)
 
 [Class 07](class201/class7.md)
 
