@@ -17,6 +17,23 @@
 5.Evaluate the code below. What does the term this refer to and what is the advantage to using this?
       * This is equivelent to Spot in this instance. Becuase it refers to the object that the code is written inside of. The benefit of using 'This' is that you are able to use the same method definition for mutiple objects.
 
+## what are objects
+* data type // Data structure
+* Convienent & power way of storing data and functions
+* use of curly braces and coma seperated key/value pairs
+* functions that are stored in objects are reffered to as methods
+
+// javascript
+let myArr = ['Audrey`, 36, `Instructor`];
+
+let person ={
+  name: 'Audrey'
+  age:36
+  isRemote: true,
+  title: 'Instructor'
+}
+
+
 ## Intro to DOM
 
 [DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
