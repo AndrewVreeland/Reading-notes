@@ -18,14 +18,14 @@
 
 [introducing constructors](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics#introducing_constructors)
 1. What is a constructor and what are some advantages to using it?
-      * a constructor function is a function that is utilized to 'dry' up your code. it allows different objects to call upon said function and reference it rather than having the function in the object itself. This allows for a cleaner database as well as more efficient code.
+      * a constructor function is a function that is utilized to 'dry' up your code. when called a new object gets created automatically. this allows you to create a template for your objects.
 2. How does the term this differ when used in an object literal versus when used in a constructor?
       * when used within an object literal the term 'this' refers to the object itself whereas the term 'this' refers to the constructor function. 
 
 [Object Protypes Using A Constructor](https://ui.dev/beginners-guide-to-javascript-prototype)
 
 1. Explain prototypes and inheritance via an analogy from your previous work experience.
-
+      * prototypes allow new properties to be added to object constructors. Prototypes inherit properties from a prototype.
 ## Constructors
 
 ### What are they?
