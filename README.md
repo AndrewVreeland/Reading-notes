@@ -49,9 +49,9 @@ Andrew Vreeland is a highly skilled and experienced professional with a strong b
 
 [Class 07](class201/class7.md)
 
-[Class 08](class201/class8.md)
+[Class 08 CSS Layout](class201/class8.md)
 
-[Class 09](class201/class9.md)
+[Class 09 Forms and JS Events](class201/class9.md)
 
 [Class 10](class201/class10.md)
 
