@@ -55,13 +55,13 @@ Andrew Vreeland is a highly skilled and experienced professional with a strong b
 
 [Class 10](class201/class10.md)
 
-[Class 11](class201/class11.md)
+[Class 11  Audio, Video, Images](class201/class11.md)
 
 [Class 12](class201/class12.md)
 
 [Class 13](class201/class13.md)
 
-[Class 14](class201/class14.md)
+[Class 14 Psychological Safety](class201/class14.md)
 
 [Class 15](class201/class15.md)
 
