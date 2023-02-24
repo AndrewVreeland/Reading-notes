@@ -1,4 +1,4 @@
-## JavaScript Canvas
+## [JavaScript Canvas](https://www.javascripttutorial.net/web-apis/javascript-canvas/)
 
 1. What does the <canvas> allow a developer to acheive?
       * this allows for 2D graphics using JS
@@ -7,7 +7,7 @@ everything between the canvas elements is fallback content and will display if t
 3. Explain what the getContext() method does.
       * the getcontext method returns a render context object. You need this in order to to be able to draw something on the blank canvas. 
 
-## Chart.js Documentation
+## [Chart.js Documentation](http://www.chartjs.org/docs/)
 
 1. What is Chart.js and how it can be brought into your project?
       * Chat JS is open source code that allows you to intergrate charts into your projects. Their is a multi step guide on how to intergrate the charts into your code.
@@ -15,7 +15,8 @@ everything between the canvas elements is fallback content and will display if t
       * Bubble Chart
       * area Chart
       * bar chart
-## Easily Create Stunning Animated Charts with Chart.js
+
+## [Easily Create Stunning Animated Charts with Chart.js](https://www.webdesignerdepot.com/2013/11/easily-create-stunning-animated-charts-with-chart-js/)
 
 1. What are some advantages to displaying data via a chart over a table?
 They are easier to look at and display data in a quickly to read format.
