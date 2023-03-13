@@ -57,13 +57,48 @@ Andrew Vreeland is a highly skilled and experienced professional with a strong b
 
 [Class 11  Audio, Video, Images](class201/class11.md)
 
-[Class 12](class201/class12.md)
+[Class 12  Chart.js, Canvas](class201/class12.md)
 
-[Class 13](class201/class13.md)
+[Class 13 Local Storage](class201/class13.md)
 
 [Class 14 Psychological Safety](class201/class14.md)
 
 [Class 15](class201/class15.md)
+
+## Class 301 READING NOTES
+
+[Class01 Intro to react and components](class201/class1.md)
+
+[Class02](class201/class2.md)
+
+[Class03](class201/class3.md)
+
+[Class04](class201/class4.md)
+
+[Class05](class201/class5.md)
+
+[Class06](class201/class6.md)
+
+[Class07](class201/class7.md)
+
+[Class08](class201/class8.md)
+
+[Class09](class201/class9.md)
+
+[Class10](class201/class10.md)
+
+[Class11](class201/class11.md)
+
+[Class12](class201/class12.md)
+
+[Class13](class201/class13.md)
+
+[Class14](class201/class14.md)
+
+[Class15](class201/class15.md)
+
+[Class16](class201/class16.md)
+
 
 Contact info:
 

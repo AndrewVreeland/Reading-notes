@@ -1,6 +1,28 @@
 # Class 14 Reading Assignment
 
-1. 
-2. 
-3. 
+## [CSS Transforms](http://learn.shayhowe.com/advanced-html-css/css-transforms/)
 
+1. What does a CSS transform allow the developer to do to an element?
+      * it allows images to be trnaformed on either a 2d or 3d plane
+2. Provide an example of a transform and how you could see that being used on a website.
+      * maybe an interactive logo where the companies logo is spinning at the top of the page. OR a logo that goes from 2d to 3d when hovered over.
+
+[CSS Transitions & Animations](http://learn.shayhowe.com/advanced-html-css/transitions-animations/)
+
+1. What does a CSS transition allow the developer to do to an element?
+      * this allows an element to change from one line of code to another. this could be a color change a fade in and our effect or somehting much more complicated.
+2. How does a CSS animation differ from a CSS transition?
+
+
+## [8 simple CSS3 transitions that will wow your users](http://www.webdesignerdepot.com/2014/05/8-simple-css3-transitions-that-will-wow-your-users)
+
+1. What are some benefits to using CSS transitions on websites?
+2. How this topic fit in with your long-term goals?
+
+
+
+
+## More Links 
+[Pure CSS Bounce Animation](http://codepen.io/dp_lewis/pen/gCfBv)
+[6 Buttons animated](http://codepen.io/retyui/pen/ByoaXV)
+[CSS3 Animations: Keyframes](http://codepen.io/akshaychauhan/pen/oAfae)
