@@ -14,6 +14,8 @@
 
 ## [React State Vs Props]
 
+https://www.youtube.com/watch?v=IYvD9oBCuJI&ab_channel=WebDevSimplified
+
 1. What types of things can you pass in the props?
       * you can pass information such as the inital count in a counter imponent. how you want you component to render, such as an item with a title and sub title. 
 
