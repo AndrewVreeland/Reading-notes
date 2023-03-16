@@ -1,4 +1,4 @@
-# Passinf functions as props
+# Passing functions as props
 
 ## [React Docs - lists and keys](https://reactjs.org/docs/lists-and-keys.html)
 
@@ -36,7 +36,6 @@
       * let bye = ['goodbye', 'see you later',]
       * let hiBye = {...hi...bye}
 
-
 4. Give an example of using the spread operator to add a new item to an array.
 
       * let hi = ['hello','welcome','hey']
@@ -44,8 +43,12 @@
       * hi[0]= 'hey there'
       * console.log(...[...hi,'...',...moreHi]) // 'hey there','welcome','hey'
 
-
 5. Give an example of using the spread operator to combine two objects into one.
+
+      * let hi = ['hello','welcome','hey']
+      * let bye = ['goodbye', 'see you later',]
+      * let ourGreetings = [...hi,...bye]
+      * console.log(hello welcome hey goodbye see you later)
 
 ## [How to pass Functions between components](https://www.youtube.com/watch?v=c05OL7XbwXU)
 
