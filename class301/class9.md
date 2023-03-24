@@ -14,6 +14,13 @@
       * the state of the data cannot change after being created
 5. What is Referential transparency?
       *  a function or expression is referentially transparent if it can be replaced with its value or result without changing the meaning or behavior of the program. This property makes it easier to reason about and test code, as it ensures that the behavior of the program is predictable and consistent.
+      * int x = 5;
+        int y = 3;
+        int z = x + y;
+        
+      * int x = 5;
+        int y = 3;
+        int z = 8;
 
 # Videos
 
