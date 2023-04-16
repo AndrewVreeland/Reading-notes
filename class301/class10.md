@@ -85,3 +85,8 @@ In contrast, SQL databases enforce a rigid structure, requiring the definition o
       * Lack of standardization: Unlike SQL databases, which have a well-established standard for querying and managing data, NoSQL databases have a more fragmented landscape with different data models and APIs, which can make it harder to switch between databases or integrate with other systems.
 
       * Limited tooling and community support: NoSQL databases often have less mature tooling and a smaller community of developers compared to SQL databases, which can make it harder to find resources and support for development and maintenance.
+
+## Bookmark and Review
+
+[mongoose api](https://mongoosejs.com/docs/api.html#Model)
+[React Router](https://reactrouter.com/web/api/BrowserRouter)

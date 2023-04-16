@@ -69,36 +69,67 @@ Andrew Vreeland is a highly skilled and experienced professional with a strong b
 
 [Class01 Intro to react and components](class201/class1.md)
 
-[Class02](class201/class2.md)
+[Class02](class301/class2.md)
 
-[Class03](class201/class3.md)
+[Class03](class301/class3.md)
 
-[Class04](class201/class4.md)
+[Class04](class301/class4.md)
 
-[Class05](class201/class5.md)
+[Class05](class301/class5.md)
 
-[Class06](class201/class6.md)
+[Class06](class301/class6.md)
 
-[Class07](class201/class7.md)
+[Class07](class301/class7.md)
 
-[Class08](class201/class8.md)
+[Class08](class301/class8.md)
 
-[Class09](class201/class9.md)
+[Class09](class301/class9.md)
 
-[Class10](class201/class10.md)
+[Class10](class301/class10.md)
 
-[Class11](class201/class11.md)
+[Class11](class301/class11.md)
 
-[Class12](class201/class12.md)
+[Class12](class301/class12.md)
 
-[Class13](class201/class13.md)
+[Class13](class301/class13.md)
 
-[Class14](class201/class14.md)
+[Class14](class301/class14.md)
 
-[Class15](class201/class15.md)
+[Class15](class301/class15.md)
 
-[Class16](class201/class16.md)
+[Class16](class301/class16.md)
 
+## Class 401 READING NOTES
+
+[Class01 ](class401/class1.md)
+
+[Class02](class401/class2.md)
+
+[Class03](class401/class3.md)
+
+[Class04](class401/class4.md)
+
+[Class05](class401/class5.md)
+
+[Class06](class401/class6.md)
+
+[Class07](class401/class7.md)
+
+[Class08](class401/class8.md)
+
+[Class09](class401/class9.md)
+
+[Class10](class401/class10.md)
+
+[Class11](class401/class11.md)
+
+[Class12](class401/class12.md)
+
+[Class13](class401/class13.md)
+
+[Class14](class401/class14.md)
+
+[Class15](class401/class15.md)
 
 Contact info:
 
